@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section1 {
+    width: 100%;
+    height: 700px; 
+    margin-top: 7px;
+    background: #EEEFF1;
+    }
+
+
+.wd {
+    width: 96px;
+    height: 60px;
+    margin-top: 57px;
+    margin-left: 20.94%;
+}
+
+.menu {
+    display: inline-block;
+    margin-left: 20.73%;
+    margin-top: 79px;
+    width: 611px;
+}
+
+.nav-item1 {
+    text-decoration: none;
+}
+
+.nav-item2,
+.nav-item3,
+.nav-item4,
+.nav-item5 {
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+    margin-left: 42px;
+    text-decoration: none;
+}
+
+.laptop {
+    margin-left: 487px ;
+    margin-top: 161px;
+    
+}
+
+.text-box1 {
+    margin-left: 130px;
+}
+
+.design {
+    display: inline-flex;
+}
+.h1 {
+    font-size: 48px;
+    margin-top: 162px;
+}
+
+.text1 {
+    width: 540px;
+    height: 67px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin-top: 60px;
+    margin-left: 1px;
+}
+
+.btn1 {
+    width: 225px;
+    height: 65px;
+    background: #34547A;
+    margin-left: 1px;
+    margin-top: 60px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.btn1-text {
+    font-size: 16px;
+    color: white;
+}
+
+.h2-me {
+    font-size: 32px;
+    text-align: center;
+    color: #000000;
+    margin-top: 119px;
+
+}    
+
+.text2 {
+    margin-top: 50px;
+    margin-left: 690px;
+    margin-bottom: 100px;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+    width: 540px;
+    height: 67px;
+}
+
+.section3 {
+    background: #34547A;
+    height: 250px;
+}
+
+.icons {
+    display: inline-flex;
+    margin-left: 405px;
+    margin-top: 100px;
+    }
+
+.text3 {
+    margin-left: 20px;
+    margin-right: 49px;
+}
+
+.t3-1 {
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.t3-2 {
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.myskills {
+    display: inline-flex;
+    margin-bottom: 101px;
+    margin-left: 386px;
+}
+.h2-skill {
+    margin-top: 204px;
+    font-size: 32px;
+    color: #000000;
+}
+
+.skill-list {
+    margin-top: 50px;
+}
+
+.skill-name {
+    font-size: 16px;
+    color: #727272;
+}
+
+.lines {
+    display: inline-flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.blueline {
+    width: 349.36px;
+    height: 4px;
+    background: #34547A;
+}
+
+.greyline {
+    width: 95.64px;
+    height: 4px;   
+    background: #C4C4C4;
+}
+
+.photo {
+    width: 555px;
+    height: 450px;
+    margin-top: 102px;
+    margin-left: 150px;
+}
